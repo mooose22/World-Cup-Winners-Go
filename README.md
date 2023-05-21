@@ -2,7 +2,6 @@
 
 > go run . - To show winners since 1950
 
-> go run . [FLAG] - To show winner of specific year, (FLAG - year)
 
 ##### Information
-A small task I made while studying flags and maps. Information on winners is read from provided .txt file.
+A small application I built to give the user information about all the World Cup winners since 1950. Information on winners is read from provided .txt file.
